@@ -31,7 +31,7 @@
 * Insert an image URL in the <img> "src" attribute bellow. (line-26)
 -->
 <div align="center">
-    <a href="your_github_user_name" target="_blank">
+    <a href="wiroooS" target="_blank">
         <img src="(https://github.com/wiroooS/Profile/blob/main/logofix_192px.png)" 
         alt="Logo" height="300" width="auto">
     </a>
