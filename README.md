@@ -32,7 +32,7 @@
 -->
 <div align="center">
     <a href="your_github_user_name" target="_blank">
-        <img src="https://github.com/wiroooS/Profile/logofix_192px.png" 
+        <img src="(https://github.com/wiroooS/Profile/blob/main/logofix_192px.png)" 
         alt="Logo" height="300" width="auto">
     </a>
 </div>
